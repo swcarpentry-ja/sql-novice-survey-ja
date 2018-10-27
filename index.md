@@ -3,31 +3,18 @@ layout: lesson
 root: .
 ---
 
-In the late 1920s and early 1930s,
-William Dyer,
-Frank Pabodie,
-and Valentina Roerich led expeditions to the
-[Pole of Inaccessibility](https://en.wikipedia.org/wiki/Pole_of_inaccessibility)
-in the South Pacific,
-and then onward to Antarctica.
-Two years ago,
-their expeditions were found in a storage locker at Miskatonic University.
-We have scanned and OCR the data they contain,
-and we now want to store that information
-in a way that will make search and analysis easy.
+1920年代後半から1930年代初頭にかけて、
+William Dyer、Frank Pabodie、Valentina Roerichが
+南太平洋の[アクセス不可能な極](https://en.wikipedia.org/wiki/Pole_of_inaccessibility)に、
+続いて南極に探検を行った。 2年前、彼らの探検はMiskatonic大学のストレージロッカーで発見されました。
+ 私たちは、その中に含まれているデータをスキャンしてOCRしています。
+ここでは、検索と分析を容易にする方法でその情報を保存したいと考えています。
 
-Three common options for storage are
-text files,
-spreadsheets,
-and databases.
-Text files are easiest to create,
-and work well with version control,
-but then we would have to build search and analysis tools ourselves.
-Spreadsheets are good for doing simple analyses,
-but they don't handle large or complex data sets well.
-Databases, however, include powerful tools for search and analysis,
-and can handle large, complex data sets.
-These lessons will show how to use a database to explore the expeditions' data.
+ストレージのための3つの一般的なオプションは、テキストファイル、スプレッドシート、およびデータベースです。
+ テキストファイルは作成が簡単でバージョン管理もうまく機能しますが、検索ツールと分析ツールを自分で構築する必要があります。 
+スプレッドシートは単純な分析には適していますが、大規模または複雑なデータセットはうまく処理できません。
+ ただし、データベースには検索と分析のための強力なツールが含まれており、大規模で複雑なデータセットを処理できます。 
+これらのレッスンでは、データベースを使用して遠征のデータを探索する方法を示します。
 
 > ## Prerequisites
 >
